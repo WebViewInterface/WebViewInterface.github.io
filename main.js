@@ -22,10 +22,10 @@ var mmmm = parseInt(ddd*2.5);
 
 clave = ""+mmmm+numberRandom;
 
-
+AndroidInterface.obtenerDatos();
 enviar();
 function enviar() {
-  AndroidInterface.obtenerDatos();
+   
 }
 
 
