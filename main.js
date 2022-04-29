@@ -25,7 +25,7 @@ clave = ""+mmmm+numberRandom;
 
 enviar();
 function enviar() {
-  AndroidInterface.obtenerDatos(arrayImages, arrayNombres, arrayVersiones, arrayDesarrolladores, clave);
+  AndroidInterface.obtenerDatos();
 }
 
 
