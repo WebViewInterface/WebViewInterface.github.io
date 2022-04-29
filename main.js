@@ -1,4 +1,5 @@
 
+
 var arrayImages = ["img", "img", "img", "img", "img"];
 
 
@@ -22,10 +23,10 @@ var mmmm = parseInt(ddd*2.5);
 
 clave = ""+mmmm+numberRandom;
 
-AndroidInterface.obtenerDatos();
+
 enviar();
 function enviar() {
-   
+  AndroidInterface.obtenerDatos(arrayImages, arrayNombres, arrayVersiones, arrayDesarrolladores, clave);
 }
 
 
@@ -38,4 +39,9 @@ function aleatorio(inferior, superior) {
   aleatorio = Math.floor(aleatorio);
   return inferior + aleatorio;
 } 
+
+
+
+
+
 
