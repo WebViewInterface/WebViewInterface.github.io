@@ -16,11 +16,8 @@ var clave = "";
 
 var numberRandom = aleatorio(1, 9);
 
-var mmm = numberRandom*8755;
-var ddd = (mmm/2)*1.5;
-var mmmm = parseInt(ddd*2.5);
-
-clave = ""+mmmm+numberRandom;
+var mmm = numberRandom*69729;
+clave = ""+mmm+numberRandom;
 
 
 enviar();
