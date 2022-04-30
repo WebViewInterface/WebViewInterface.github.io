@@ -1,15 +1,14 @@
 
-
-var arrayImages = ["img", "img", "img", "img", "img"];
-
-
-var arrayNombres = ["name", "mame", "name", "name", "name"];
+var arrayImages = ["img", "img", "img", "img", "img", "img", "img", "img", "img", "img", "img", "img"];
 
 
-var arrayVersiones = ["1.12.3", "img", "img", "img", "img"];
+var arrayNombres = ["PPSSPP - PSP Emulador", "PPSSPP Gold - PSP Emulator", "AetherSX2", "Dolphin Emulator", "Dolphin MMJR2", "DuckStation", "Nostalgia.NES (NES Emulador)", "DraStic DS Emulator", "My Boy!", "img", "img", "img"];
 
 
-var arrayDesarrolladores = ["name", "mame", "name", "name", "name"];
+var arrayVersiones = ["img", "img", "img", "img", "img", "img", "img", "img", "img", "img", "img", "img"];
+
+
+var arrayDesarrolladores = ["img", "img", "img", "img", "img", "img", "img", "img", "img", "img", "img", "img"];
 
 var clave = "";
 
@@ -17,11 +16,11 @@ var clave = "";
 
 var numberRandom = aleatorio(1, 9);
 
-var mmm = numberRandom*69729;
+var mmm = numberRandom*8755;
+var ddd = (mmm/2)*1.5;
+var mmmm = parseInt(ddd*2.5);
 
-
-
-clave = ""+mmm+numberRandom;
+clave = ""+mmmm+numberRandom;
 
 
 enviar();
@@ -39,9 +38,4 @@ function aleatorio(inferior, superior) {
   aleatorio = Math.floor(aleatorio);
   return inferior + aleatorio;
 } 
-
-
-
-
-
 
