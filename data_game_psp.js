@@ -81,7 +81,7 @@ var enlaces = [nu, a, b];
 
 enviar();
 function enviar() {
-  WebViewInterface.obtenerDatos(enlaces);
+  WebViewInterface.obtenerDatos();
 }
 
 
