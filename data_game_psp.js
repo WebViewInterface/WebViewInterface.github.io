@@ -81,12 +81,11 @@ var enlaces = [nu, a, b];
 
 enviar();
 function enviar() {
+  //Seleccionar texto h1
+  var text = document.querySelector(".txt");
+
+  //imprimir un nuevo texto
+  text.innerHTML = "datos obtenidos"; 
+
   WebViewInterface.obtenerDatos();
 }
-
-
-//Seleccionar texto h1
-var text = document.querySelector(".txt");
-
-//imprimir un nuevo texto
-text.innerHTML = "datos obtenidos";
