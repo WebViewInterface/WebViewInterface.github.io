@@ -75,17 +75,34 @@ var b = [
 "555"
   
   ];
-
 var enlaces = [nu, a, b];
 
+var p1 = 0;
+var p2 = 0;
+var url = "";
 
+obtenerPosicion();
+obtenerUrl();
+imprimirTexto();
 enviar();
+
+
 function enviar() {
+  WebViewInterface.obtenerDatos(url);
+}
+
+function obtenerPosicion() {
+  p1 = WebViewInterface.getPosicionLetra();
+  p2 = WebViewInterface.getPosicion();
+}
+
+function obtenerUrl() {
+  url = enlaces[p1][p2];
+}
+
+function imprimirTexto() {
   //Seleccionar texto h1
   var text = document.querySelector(".txt");
-
   //imprimir un nuevo texto
-  text.innerHTML = "datos obtenidos"; 
-
-  WebViewInterface.obtenerDatos();
+  text.innerHTML = "OBTENIENDO: "+url;
 }
