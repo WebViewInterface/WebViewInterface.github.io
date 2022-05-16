@@ -16,7 +16,6 @@ var nu = [
 "https://www.freeroms.com/roms/psp/77_-_beyond_the_milky_way_japan.htm", 
 "https://www.freeroms.com/roms/psp/7th_dragon_2020_japan.htm", 
 "https://www.freeroms.com/roms/psp/7th_dragon_2020-ii_japan.htm"];
-
 var a = [
 "https://wowroms.com/en/isos/playstation-portable/download-ace-armstrong-vs-the-alien-scumbags/32995.html", 
 "https://www.freeroms.com/roms/psp/ace_combat_-_joint_assault_europe.htm", 
@@ -98,6 +97,113 @@ var a = [
 "https://www.freeroms.com/roms/psp/audition_portable_korea.htm", 
 "https://www.freeroms.com/roms/psp/ayaka_shibito_portable_japan.htm"];
 var b = [
+"https://www.freeroms.com/roms/psp/battlezone_europe.htm", 
+"https://www.freeroms.com/roms/psp/bakugan_battle_brawlers_-_defenders_of_the_core_europe.htm", 
+"https://www.freeroms.com/roms/psp/b-boy_europe.htm", 
+"https://www.freeroms.com/roms/psp/beaterator_europe.htm", 
+"https://wowroms.com/es/isos/playstation-portable/download-bejeweled-2/33116.html",
+"https://www.freeroms.com/roms/psp/ben_10_-_alien_force_europe.htm", 
+"https://www.freeroms.com/roms/psp/ben_10_-_alien_force_vilgax_attacks_europe.htm", 
+"https://www.freeroms.com/roms/psp/ben_10_-_protector_of_earth_europe.htm", 
+"https://www.freeroms.com/roms/psp/ben_10_-_ultimate_alien_-_cosmic_destruction_europe.htm", 
+"https://www.freeroms.com/roms/psp/beowulf_-_the_game_europe.htm", 
+"https://wowroms.com/es/isos/playstation-portable/download-best-of-solitaire-clone/33125.html",
+"https://www.freeroms.com/roms/psp/black_rock_shooter_-_the_game_japan.htm",
+"https://www.freeroms.com/roms/psp/blade_dancer_-_lineage_of_light_europe.htm", 
+"https://www.freeroms.com/roms/psp/blazblue_-_continuum_shift_extend_japan.htm", 
+"https://www.freeroms.com/roms/psp/blazblue_-_continuum_shift_ii_europe.htm", 
+"https://www.freeroms.com/roms/psp/blazblue_-_calamity_trigger_europe.htm", 
+"https://www.freeroms.com/roms/psp/bleach_-_heat_the_soul_japan.htm",
+"https://www.freeroms.com/roms/psp/bleach_-_heat_the_soul_2_japan.htm", 
+"https://www.freeroms.com/roms/psp/bleach_-_heat_the_soul_3_japan.htm", 
+"https://www.freeroms.com/roms/psp/bleach_-_heat_the_soul_4_japan.htm", 
+"https://www.freeroms.com/roms/psp/bleach_-_heat_the_soul_5_japan.htm", 
+"https://www.freeroms.com/roms/psp/bleach_-_heat_the_soul_6_japan.htm",
+"https://www.freeroms.com/roms/psp/bleach_-_heat_the_soul_7_japan.htm",
+"https://www.freeroms.com/roms/psp/bleach_-_soul_carnival_japan.htm", 
+"https://www.freeroms.com/roms/psp/bleach_-_soul_carnival_2_japan.htm", 
+"https://www.freeroms.com/roms/psp/bliss_island_europe.htm", 
+"https://www.freeroms.com/roms/psp/blokus_portable_-_steambot_championship_europe.htm", 
+"https://www.freeroms.com/roms/psp/blood_bowl_europe.htm",
+"https://www.mediafire.com/file/dg6mswywi1jcmop/BEVA.rar/file", 
+"https://www.freeroms.com/roms/psp/bob_esponja_atrapados_en_el_congelador_spain.htm", 
+"https://www.freeroms.com/roms/psp/bomberman_europe.htm", 
+"https://www.freeroms.com/roms/psp/bomberman_land_europe.htm", 
+"https://wowroms.com/es/isos/playstation-portable/download-brain-challenge/33170.html", 
+"https://www.freeroms.com/roms/psp/brandish_-_the_dark_revenant_japan.htm", 
+"https://www.freeroms.com/roms/psp/bounty_hounds.htm", 
+"https://www.freeroms.com/roms/psp/brothers_in_arms_-_d-day_europe.htm",
+"https://www.freeroms.com/roms/psp/brunswick_pro_bowling_europe.htm", 
+"https://www.freeroms.com/roms/psp/bubble_bobble_-_evolution_europe.htm", 
+"https://www.freeroms.com/roms/psp/burnout_legends_europe.htm", 
+"https://www.freeroms.com/roms/psp/burnout_dominator_europe.htm", 
+"https://www.freeroms.com/roms/psp/buzz!_brain_bender_europe.htm", 
+"https://www.freeroms.com/roms/psp/buzz!_quiz_world_europe.htm", 
+"https://www.freeroms.com/roms/psp/buzz!_master_quiz_europe.htm"];
+var c = [
+"https://www.freeroms.com/roms/psp/cabela's_african_safari.htm", 
+"https://www.freeroms.com/roms/psp/cabela's_dangerous_hunts_-_ultimate_challenge_europe.htm", 
+"https://www.freeroms.com/roms/psp/cabela's_legendary_adventures.htm", 
+"https://www.freeroms.com/roms/psp/cabela's_north_american_adventures.htm", 
+"https://www.freeroms.com/roms/psp/call_of_duty_-_roads_to_victory_europe.htm",
+"https://www.freeroms.com/roms/psp/cars_spain.htm", 
+"https://www.freeroms.com/roms/psp/cars_2_europe.htm", 
+"https://www.freeroms.com/roms/psp/cars_race-o-rama_europe.htm", 
+"https://www.freeroms.com/roms/psp/castlevania_-_the_dracula_x_chronicles_europe.htm", 
+"https://www.freeroms.com/roms/psp/chessmaster_-_the_art_of_learning_europe.htm", 
+"https://www.freeroms.com/roms/psp/chili_con_carnage_europe.htm",
+"https://www.freeroms.com/roms/psp/cid_the_dummy_europe.htm",
+"https://www.freeroms.com/roms/psp/coded_arms_europe.htm", 
+"https://www.freeroms.com/roms/psp/coded_arms_-_contagion_europe.htm", 
+"https://www.freeroms.com/roms/psp/code_lyoko_-_quest_for_infinity_europe.htm", 
+"https://www.freeroms.com/roms/psp/colin_mcrae_-_dirt_2_europe.htm", 
+"https://www.freeroms.com/roms/psp/crash_-_mind_over_mutant_europe.htm",
+"https://www.freeroms.com/roms/psp/crash_tag_team_racing_spain.htm", 
+"https://www.freeroms.com/roms/psp/crash_of_the_titans_europe.htm", 
+"https://www.freeroms.com/roms/psp/crazy_taxi_-_fare_wars_europe.htm", 
+"https://www.freeroms.com/roms/psp/crimson_gem_saga.htm", 
+"https://www.freeroms.com/roms/psp/crisis_core_-_final_fantasy_vii_spain.htm",
+"https://www.freeroms.com/roms/psp/crush_europe.htm", 
+"https://www.freeroms.com/roms/psp/cube_-_3d_puzzle_mayhem_europe.htm"];
+var d = [
+"https://www.freeroms.com/roms/psp/dante's_inferno_spain.htm", 
+"https://www.freeroms.com/roms/psp/darkstalkers_chronicle_-_the_chaos_tower_europe.htm", 
+"https://www.freeroms.com/roms/psp/dave_mirra_bmx_challenge_europe.htm",
+"https://www.freeroms.com/roms/psp/daxter_europe.htm", 
+"https://www.freeroms.com/roms/psp/dead_head_fred_europe.htm",
+"https://www.freeroms.com/roms/psp/dead_or_alive_paradise_europe.htm", 
+"https://www.freeroms.com/roms/psp/dead_to_rights_-_reckoning_europe.htm", 
+"https://www.freeroms.com/roms/psp/death_jr_europe.htm", 
+"https://www.freeroms.com/roms/psp/death_jr_ii_-_root_of_evil_europe.htm", 
+"https://www.freeroms.com/roms/psp/def_jam_-_fight_for_ny_-_the_takeover_europe.htm", 
+"https://www.freeroms.com/roms/psp/diabolik_-_the_original_sin_europe.htm", 
+"https://www.freeroms.com/roms/psp/digimon_adventure_japan.htm",
+"https://www.freeroms.com/roms/psp/dissidia_-_final_fantasy_europe.htm",
+"https://www.freeroms.com/roms/psp/dissidia_012_-_duodecim_final_fantasy_europe.htm", 
+"https://www.freeroms.com/roms/psp/donkey_xote_europe.htm", 
+"https://www.freeroms.com/roms/psp/dragon_ball_evolution_europe.htm", 
+"https://www.freeroms.com/roms/psp/dragon_ball_z_-_shin_budokai_europe.htm", 
+"https://www.freeroms.com/roms/psp/dragon_ball_z_-_shin_budokai_-_another_road_europe.htm",
+"https://www.freeroms.com/roms/psp/dragon_ball_z_-_tenkaichi_tag_team_europe.htm", 
+"https://www.freeroms.com/roms/psp/driver_76_europe.htm", 
+"https://wowroms.com/es/isos/playstation-portable/download-ducati-challenge-clone/33403.html", 
+"https://www.freeroms.com/roms/psp/dungeons_and_dragons_tactics_europe.htm", 
+"https://www.freeroms.com/roms/psp/dungeon_siege_-_throne_of_agony_europe.htm"];
+var e = [
+"https://www.freeroms.com/roms/psp/ea_replay_europe.htm", 
+"https://www.freeroms.com/roms/psp/echochrome_europe.htm", 
+"https://wowroms.com/es/isos/playstation-portable/download-elemental-monster-td-portable/33434.html", 
+"https://www.freeroms.com/roms/psp/padrino_el_spain.htm", 
+"https://www.freeroms.com/roms/psp/eragon_europe.htm",
+"https://www.freeroms.com/roms/psp/every_extend_extra_europe.htm", 
+"https://www.freeroms.com/roms/psp/exit_europe.htm", 
+"https://www.freeroms.com/roms/psp/exit_2_europe.htm", 
+"https://www.freeroms.com/roms/psp/lord_of_the_rings_-_aragorn's_quest_the_europe.htm", 
+"https://www.freeroms.com/roms/psp/everybody's_golf_europe.htm", 
+"https://www.freeroms.com/roms/psp/everybody's_golf_2_europe.htm",
+"https://www.freeroms.com/roms/psp/everybody's_tennis_europe.htm",
+"https://www.freeroms.com/roms/psp/eyepet_portable_europe.htm"];
+var f = [
 "555", 
 "555", 
 "555", 
@@ -118,28 +224,12 @@ var b = [
 "555"
   
   ];
-var c = [
-"555", 
-"555", 
-"555", 
-"555", 
-"555",
-"555", 
-"555", 
-"555", 
-"555", 
-"555", 
-"555",
-"555",
-"555", 
-"555", 
-"555", 
-"555", 
-"555",
+var l = ["https://www.freeroms.com/roms/psp/brujula_dorada_la_spain.htm", 
 "555"
-  
-  ]; 
-var enlaces = [nu, a, b];
+
+
+];
+var enlaces = [nu, a, b, c, d, e];
 
 var p1 = 0;
 var p2 = 0;
